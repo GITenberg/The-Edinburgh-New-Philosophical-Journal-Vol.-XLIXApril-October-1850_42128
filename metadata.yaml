@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41536'
     url: http://www.gutenberg.org/2009/agents/41536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42128#The-Edinburgh-New-Philosophical-Journal-Vol.-XLIXApril-October-1850
 gutenberg_issued: '2013-02-18'
 gutenberg_type: Text
 identifiers:
